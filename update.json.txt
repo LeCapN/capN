@@ -1,0 +1,5 @@
+{
+"hashURL" : "https://raw.githubusercontent.com/LeCapN/capN/main/hash.txt",
+"downloadURL" : "https://www.dropbox.com/s/wnreowmn8d9yxer/Brian.zip?dl=0",
+"message" : ""
+}
